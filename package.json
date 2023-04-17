@@ -1,0 +1,14 @@
+{
+  "name": "servidornode",
+  "version": "1.0.0",
+  "description": "Teste em aula",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aline Costa",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
